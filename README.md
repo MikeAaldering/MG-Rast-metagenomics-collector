@@ -1,8 +1,6 @@
 # MG-Rast-metagenomics-collector
-Download all metadata and OTU tables of metagenome samples from MG-Rast
+Download all metadata and OTU tables of metagenome samples from MG-Rast and stores it to a .CSV file. It can also standardize metadata naming. In the workflow diagramm is descibed how the program works.
 
-
-This program downloads species and metadata from MG-Rast database and stores it to a .CSV file.
 
 To run MG-Rast, the following python libraries are needed: 
 -dateutil -ete2 -incf.countryutils -pandas -ijson -json -re -six -time -urllib2 
