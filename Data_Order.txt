@@ -1,0 +1,537 @@
+id
+id_project
+collection_date_sample
+collection_time_sample
+seq_std
+biome_sample
+metadata sample data biome
+env_package_sample
+metadata sample data env_package
+material_sample
+texture_env_package
+biomass_env_package
+continent_sample
+country_sample
+metadata sample data continent
+metadata sample data location
+location_sample
+latitude_sample
+latitude_direction_sample
+latitude_value_sample
+longitude_sample
+longitude_value_sample
+longitude_direction_sample
+altitude_sample
+elevation_sample
+depth_sample
+metadata sample data depth
+pH_std
+ph_sample
+ph_env_package
+alkalinity_env_package
+Temp_std
+temperature_sample
+-natural-or-artificial-environment_temp_env_package
+_temp_env_package
+C_percentage_std
+diss_carb_dioxide_env_package
+_tot_org_c_env_package
+org_carb_env_package
+org_matter_env_package
+tot_org_c_meth_env_package
+methane_env_package
+diss_inorg_carb_env_package
+tot_org_carb_env_package
+N_percentage_std
+tot_n_env_package
+nitro_env_package
+org_nitro_env_package
+ammonium_env_package
+nitrate_env_package
+nitrite_env_package
+tot_n_meth_env_package
+agrochem_addition_env_package
+bromide_env_package
+calcium_env_package
+chem_administration_env_package
+chloride_env_package
+chlorophyll_env_package
+density_env_package
+diether_lipids_env_package
+diss_hydrogen_env_package
+diss_oxygen_env_package
+extreme_salinity_env_package
+heavy_metals_env_package
+heavy_metals_meth_env_package
+humidity_sample
+oxy_stat_samp_env_package
+ph_meth_env_package
+phosphate_env_package
+phosplipid_fatt_acid_env_package
+potassium_env_package
+pressure_env_package
+salinity_env_package
+salinity_meth_env_package
+salinity_sample
+sieving_env_package
+silicate_env_package
+soil_type_env_package
+soil_type_meth_env_package
+sulfate_env_package
+sulfide_env_package
+texture_meth_env_package
+water_content_soil_meth_env_package
+water_content_soil_env_package
+454_gasket_type_library
+454_regions_library
+adapters_library
+amp_polymerase_library
+assembly_library
+assembly_name_library
+BSA_final_conc_library
+cloning_kit_library
+cycle_annealing_duration_library
+cycle_annealing_temp_library
+cycle_count_library
+cycle_denaturation_duration_library
+cycle_denaturation_temp_library
+cycle_extension_duration_library
+cycle_extension_temp_library
+cycleannealingduration_hour_library
+cycleannealingduration_minute_library
+cycleannealingduration_second_library
+cycledenaturationduration_hour_library
+cycledenaturationduration_minute_library
+cycledenaturationduration_second_library
+cycleextensionduration_hour_library
+cycleextensionduration_minute_library
+cycleextensionduration_second_library
+denaturation_duration_initial_library
+denaturation_temp_initial_library
+denaturationdurationinitial_hour_library
+denaturationdurationinitial_minute_library
+denaturationdurationinitial_second_library
+extension_duration_final_library
+extension_temp_final_library
+extensiondurationfinal_hour_library
+extensiondurationfinal_minute_library
+extensiondurationfinal_second_library
+forward_barcodes_library
+forward_primers_library
+lib_const_meth_library
+lib_size_library
+library
+library_institute_library
+library_notes_library
+metadata library data dATP_final_conc
+metadata library data dCTP_final_conc
+metadata library data dGTP_final_conc
+metadata library data dTTP_final_conc
+metadata library data forward_primer_final_conc
+metadata library data host_cells
+metadata library data lib_type
+metadata library data reverse_primer_final_conc
+metadata library data seq_quality_check
+metagenome_name_library
+MgCl2_final_conc_library
+mrna_percent_library
+nucl_acid_amp_library
+nucl_acid_ext_library
+pcr_clean_up_kits_library
+pcr_clean_up_methods_library
+pcr_notes_library
+polymerase_units_library
+pool_dna_extracts_env_package
+reverse_barcodes_library
+reverse_primers_library
+samp_weight_dna_ext_env_package
+seq_center_library
+seq_chem_library
+seq_make_library
+seq_model_library
+seq_quality_check_library
+seq_url_library
+sequence_type
+sequences_sequences_assembled_library
+sequences_sequences_combined_libraries_library
+sequences_sequences_filtered_library
+sequences_sequences_predicted_genes_library
+tailduration_hour_library
+tailduration_minute_library
+tailduration_second_library
+target_gene_library
+thermocycler_library
+version
+type_library
+lib_type_library
+pipeline_id
+pipeline_parameters aa_pid
+pipeline_parameters assembled
+pipeline_parameters bowtie
+pipeline_parameters dereplicate
+pipeline_parameters dynamic_trim
+pipeline_parameters fgs_type
+pipeline_parameters file_type
+pipeline_parameters filter_ambig
+pipeline_parameters filter_ln
+pipeline_parameters filter_ln_mult
+pipeline_parameters m5nr_annotation_version
+pipeline_parameters m5rna_annotation_version
+pipeline_parameters m5rna_sims_version
+pipeline_parameters max_ambig
+pipeline_parameters max_lqb
+pipeline_parameters min_qual
+pipeline_parameters prefix_length
+pipeline_parameters priority
+pipeline_parameters rna_pid
+pipeline_parameters screen_indexes
+pipeline_version
+pipeline_parameters m5nr_sims_version
+file_name_library
+gold_id_library
+host_taxid_env_package
+id_env_package
+id_library
+id_sample
+job_id
+metadata project data project-description_internal_project_ID
+metagenome_id_library
+mgrast_id_env_package
+mgrast_id_library
+mgrast_id_project
+mgrast_id_sample
+name_library
+name_project
+ncbi_id_project
+pubmed_id_library
+sample_id_sample
+metadata project id
+_link_addit_analys_env_package
+_other_env_package
+administrative-contact_PI_email_project
+administrative-contact_PI_firstname_project
+administrative-contact_PI_lastname_project
+administrative-contact_PI_organization_address_project
+administrative-contact_PI_organization_country_project
+administrative-contact_PI_organization_project
+administrative-contact_PI_organization_url_project
+age_env_package
+air_temp_regm_env_package
+al_sat_env_package
+al_sat_meth_env_package
+annual_season_precpt_env_package
+annual_season_temp_env_package
+biotic_relationship_sample
+body_habitat_env_package
+body_site_env_package
+climate_environment_env_package
+collection_timezone_sample
+created
+crop_rotation_env_package
+cur_land_use_env_package
+cur_vegetation_env_package
+cur_vegetation_meth_env_package
+current_env_package
+disease_stat_env_package
+drainage_class_env_package
+email_project
+env_package_env_package
+envo_release_project
+experimental_factor_sample
+extreme_event_env_package
+fao_class_env_package
+feature_sample
+fertilizer_regm_env_package
+file_checksum_library
+fire_env_package
+firstname_project
+flooding_env_package
+fungicide_regm_env_package
+gelatin_final_conc_library
+geodetic_system_sample
+horizon_env_package
+horizon_meth_env_package
+host_common_name_env_package
+host_growth_cond_env_package
+infra_specific_name_env_package
+infra_specific_rank_env_package
+investigation_type_library
+isol_growth_condt_sample
+lastname_project
+lib_size_mean_library
+library 0
+library 1
+life_stage_env_package
+link_class_info_env_package
+link_climate_info_env_package
+local_class_env_package
+local_class_meth_env_package
+md5_checksum
+metadata env_package data extreme_event
+metadata env_package data store_cond
+metadata env_package data texture
+metadata library data investigation_type
+metadata project data organization
+metadata project data organization_address
+metadata project data PI_firstname
+metadata project data PI_lastname
+metadata project data PI_organization
+metadata project data PI_organization_address
+metadata project data project_description
+metadata project data project_funding
+metadata sample data collection_timezone
+metadata sample data samp_collect_device
+metadata sample name
+microbial_biomass_env_package
+microbial_biomass_meth_env_package
+misc_param_1_env_package
+misc_param_env_package
+misc_param_library
+misc_param_project
+misc_param_sample
+mixs_compliant
+name
+name_env_package
+name_sample
+organism_count_env_package
+organization_address_project
+organization_country_project
+organization_project
+organization_url_project
+perturbation_env_package
+phenotype_env_package
+PI_email_project
+PI_firstname_project
+PI_lastname_project
+PI_organization_address_project
+PI_organization_project
+PI_organization_url_project
+plant_body_site_env_package
+previous_land_use_env_package
+previous_land_use_meth_env_package
+profile_position_env_package
+project 0
+project 1
+project_description_project
+project_funding_project
+project_name_project
+project-description_internal_project_ID_project
+samp_collect_device_sample
+samp_mat_process_sample
+samp_size_sample
+samp_store_dur_env_package
+samp_store_loc_env_package
+samp_store_temp_env_package
+sample 0
+sample 1
+sample_name_env_package
+sample_name_library
+sample_name_sample
+sample_strategy_sample
+samplingtime_hour_sample
+samplingtime_minute_sample
+samplingtime_second_sample
+slope_aspect_env_package
+slope_gradient_env_package
+status
+store_cond_env_package
+submission
+submitted_to_insdc_project
+tillage_env_package
+type_env_package
+url
+PI_organization_country_project
+public_project
+seq_meth_library
+total_reads_interested
+total_reads
+methanotrophic alpha proteobacterium RG
+methanotrophic bacterium LK5
+methanotrophic bacterium Y
+Methylacidiphilum fumariolicum
+Methylacidiphilum infernorum
+Methylacidiphilum kamchatkense
+Methylobacter bovis
+Methylobacter chroococcum
+Methylobacter luteus
+Methylobacter marinus
+Methylobacter psychrophilus
+Methylobacter sp. 5FB
+Methylobacter sp. A45
+Methylobacter sp. BB5.1
+Methylobacter sp. clone FIN1
+Methylobacter sp. clone FIN3
+Methylobacter sp. clone FIN4
+Methylobacter sp. clone PP39C
+Methylobacter sp. HG-1
+Methylobacter sp. LW1
+Methylobacter sp. LW12
+Methylobacter tundripaludum
+Methylobacter vinelandii
+Methylocaldum gracile
+Methylocaldum sp. 0510-P-2
+Methylocaldum sp. 05J-I-7
+Methylocaldum sp. 5FB
+Methylocaldum sp. BFH1
+Methylocaldum sp. E10_A
+Methylocaldum sp. E10a
+Methylocaldum sp. ML100
+Methylocaldum sp. ML184
+Methylocaldum sp. ML39
+Methylocaldum sp. T-025
+Methylocaldum szegediense
+Methylocaldum tepidum
+Methylocapsa acidiphila
+Methylocapsa aurea
+Methylocapsa sp. KYG
+Methylocella palustris
+Methylocella silvestris
+Methylocella tundrae
+Methylococcus capsulatus
+Methylococcus thermophilus
+Methylocystis echinoides
+Methylocystis heyeri
+Methylocystis hirsuta
+Methylocystis methanolicus
+Methylocystis minimus
+Methylocystis parvus
+Methylocystis rosea
+Methylocystis sp. 0510-P-6
+Methylocystis sp. 10
+Methylocystis sp. 12.2
+Methylocystis sp. 2-19
+Methylocystis sp. 39
+Methylocystis sp. 42/22
+Methylocystis sp. 45/7a
+Methylocystis sp. 50/42a
+Methylocystis sp. 50/54
+Methylocystis sp. 51
+Methylocystis sp. 5FB1
+Methylocystis sp. 5FB2
+Methylocystis sp. 62/12
+Methylocystis sp. 62/38a
+Methylocystis sp. ATCC 49242
+Methylocystis sp. B2/7
+Methylocystis sp. B3
+Methylocystis sp. Ch22
+Methylocystis sp. clone ProtK2
+Methylocystis sp. F10V2a
+Methylocystis sp. H2s
+Methylocystis sp. H9a
+Methylocystis sp. IMET 10484
+Methylocystis sp. IMET 10489
+Methylocystis sp. KS12
+Methylocystis sp. KS3
+Methylocystis sp. KS30
+Methylocystis sp. KS33
+Methylocystis sp. KS7
+Methylocystis sp. KS8a
+Methylocystis sp. KS9
+Methylocystis sp. L6
+Methylocystis sp. LR1
+Methylocystis sp. LW2
+Methylocystis sp. LW5
+Methylocystis sp. M
+Methylocystis sp. m1511
+Methylocystis sp. m231
+Methylocystis sp. m261
+Methylocystis sp. M42/1
+Methylocystis sp. Pi5/4
+Methylocystis sp. SB2
+Methylocystis sp. SC2
+Methylocystis sp. SD3-5
+Methylocystis sp. SE12
+Methylocystis sp. SK28
+Methylocystis sp. WI14
+Methyloferula stellata
+Methylohalobius crimeensis
+Methylohalobius sp. IT-9
+Methylomicrobium album
+Methylomicrobium alcaliphilum
+Methylomicrobium buryatense
+Methylomicrobium japanense
+Methylomicrobium kenyense
+Methylomicrobium pelagicum
+Methylomicrobium sp. 5G
+Methylomicrobium sp. AMO
+Methylomicrobium sp. HG-1
+Methylomicrobium sp. ML1
+Methylomonas aminofaciens
+Methylomonas clara
+Methylomonas methanica
+Methylomonas rubra
+Methylomonas sp.
+Methylomonas sp. 16a
+Methylomonas sp. 83
+Methylomonas sp. clone PP39E
+Methylomonas sp. clone PP39F
+Methylomonas sp. clone PP39G
+Methylomonas sp. clone PP39H
+Methylomonas sp. clone PP39I
+Methylomonas sp. Fw12E-Y
+Methylomonas sp. GYJ3
+Methylomonas sp. J
+Methylomonas sp. KSPIII
+Methylomonas sp. KSWIII
+Methylomonas sp. LC 1
+Methylomonas sp. LW13
+Methylomonas sp. LW15
+Methylomonas sp. LW16
+Methylomonas sp. LW19
+Methylomonas sp. LW21
+Methylomonas sp. ML04
+Methylosarcina fibrata
+Methylosarcina lacus
+Methylosarcina quisquiliarum
+Methylosinus acidophilus
+Methylosinus sp. 434
+Methylosinus sp. 69
+Methylosinus sp. 8.2
+Methylosinus sp. D15a
+Methylosinus sp. LW2
+Methylosinus sp. LW3
+Methylosinus sp. LW4
+Methylosinus sp. LW8
+Methylosinus sp. M1
+Methylosinus sp. ML116
+Methylosinus sp. PW1
+Methylosinus sp. R62
+Methylosinus sporium
+Methylosinus trichosporium
+Methylovulum miyakonense
+NC10 bacterium 'Dutch sediment'
+uncultured methanotrophic alpha proteobacterium
+uncultured methanotrophic bacterium
+uncultured methanotrophic bacterium M84-P11
+uncultured methanotrophic bacterium M84-P38
+uncultured methanotrophic bacterium M84-P9
+uncultured methanotrophic bacterium M84-S21
+uncultured methanotrophic bacterium M84-S28
+uncultured methanotrophic bacterium M84-S3
+uncultured methanotrophic bacterium M84-S36
+uncultured methanotrophic bacterium M84-S38
+uncultured methanotrophic bacterium M84-S49
+uncultured methanotrophic bacterium M84-S6
+uncultured methanotrophic bacterium M84-S7
+uncultured methanotrophic bacterium M90-P36
+uncultured methanotrophic bacterium M90-P4
+uncultured methanotrophic bacterium M90-P50
+uncultured methanotrophic bacterium M90-P75
+uncultured methanotrophic gamma proteobacterium
+uncultured methanotrophic proteobacterium
+uncultured Methylobacter sp.
+uncultured Methylocaldum sp.
+uncultured Methylocella sp.
+uncultured Methylocystis sp.
+uncultured Methylocystis sp. GSC357
+uncultured Methylomicrobium sp.
+uncultured Methylomonas sp.
+uncultured verrucomicrobium HF0070_15G23
+uncultured verrucomicrobium HF0070_35E03
+uncultured verrucomicrobium HF0130_25O04
+uncultured verrucomicrobium HF0500_08N17
+uncultured verrucomicrobium HF0500_16O23
+uncultured verrucomicrobium HF0500_18J03
+uncultured verrucomicrobium HF0500_27H16
+Verrucomicrobium sp. IRVE
+Verrucomicrobium spinosum
