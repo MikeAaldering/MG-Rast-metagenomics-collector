@@ -2,7 +2,6 @@
 Download all metadata and OTU tables of metagenome samples from MG-Rast
 
 To run MG-Rast, the following python libraries are needed: 
-
 -dateutil -ete2 -incf.countryutils -pandas -ijson -json -re -six -time -urllib2 
 
 
